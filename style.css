@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Automaton";
+    src: url("https://fantomasberlin.github.io/Automaton-font-thing/Automatonv3.woff2") format("woff2");
+}
+
+:root {
+    --font-primary: "Automaton", sans-serif;
+    --font-display: "Automaton", sans-serif;
+    --font-code: "Automaton", monospace;
+}
