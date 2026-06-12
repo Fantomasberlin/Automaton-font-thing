@@ -5,3 +5,7 @@ ill fix that when i have time to change it.
 font made by: [u/Mr-chickenDud](https://www.reddit.com/u/Mr-ChickenDud/s/6eqCBgEuVW)
 
 here's the original [Post](https://www.reddit.com/r/Helldivers/s/FUXNCq8i64)
+
+so uh apparently the E looks like an A.
+fixed version for future me to do
+[here](https://www.reddit.com/r/Helldivers/s/UJvl32YqLW)
