@@ -1,1 +1,1 @@
-Download the font and then instead the style.css in your quick css
+Download the font and then insert the style.css in your quick css
