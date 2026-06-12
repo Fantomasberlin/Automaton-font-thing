@@ -1,1 +1,1 @@
-Yeah this is just a test thing tbh
+Download the font and then instead the style.css in your quick css
