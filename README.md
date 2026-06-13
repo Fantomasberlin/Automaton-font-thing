@@ -9,3 +9,7 @@ here's the original [Post](https://www.reddit.com/r/Helldivers/s/FUXNCq8i64)
 so uh apparently the E looks like an A.
 fixed version for future me to do
 [here](https://www.reddit.com/r/Helldivers/s/UJvl32YqLW)
+
+# also i am aware of using vencord being against discord TOS
+and here's me answer.
+grow a pair and mind your own business
